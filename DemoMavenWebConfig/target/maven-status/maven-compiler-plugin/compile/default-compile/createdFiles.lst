@@ -1,0 +1,3 @@
+com\Demo\Configuration\AppInitializer.class
+com\Demo\Configuration\WebConfiguration.class
+com\Demo\Controller\WelcomeController.class
